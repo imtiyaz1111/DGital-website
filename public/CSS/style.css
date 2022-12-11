@@ -1,0 +1,183 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+/* Navbar */
+.navlog a {
+  color: blue;
+  font-family: "Roboto Slab", serif;
+}
+.nav-btn button {
+  color: black;
+  background-color: #fba504;
+  font-family: "Nunito", sans-serif;
+}
+.nav-btn button:hover {
+  color: black;
+  border: 2px solid #fba504;
+}
+.nav-item a {
+  font-family: "Nunito", sans-serif;
+}
+.nav-item a:hover {
+  color: #fba504;
+}
+
+.har {
+  color: blue;
+}
+/* hero-section */
+.hero-section {
+  background-color: rgb(88, 88, 247);
+}
+.hero-left-details {
+  margin-top: 120px;
+}
+.hero-left-details h1 {
+  font-family: "Roboto Slab", serif;
+}
+.hero-left-details p {
+  font-family: "Nunito", sans-serif;
+}
+.hero-btn button {
+  color: black;
+  background-color: #fba504;
+  font-family: "Nunito", sans-serif;
+  border: 2px solid #fba504;
+  border-radius: 50px;
+  margin-bottom: 120px;
+  width: 200px;
+}
+.hero-btn button:hover {
+  color: black;
+  border: 2px solid #fba504;
+}
+.hero-right {
+  margin-top: 50px;
+}
+.hero-img img {
+  width: 450px;
+  height: 400px;
+}
+/* About */
+.about {
+  height: 50vh;
+  background-color: rgb(88, 88, 247);
+}
+.about-main {
+  background: url(/img/blob-primary.png) no-repeat center;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+.about-main h1 {
+  font-family: "Roboto Slab", serif;
+}
+.ablink a {
+  text-decoration: none;
+}
+.ablink a:hover {
+  text-decoration: underline;
+  color: #fba504;
+}
+.av-main{
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.av-main p{
+  color: #fba504;
+}
+.av-main h1{
+  font-family: "Roboto Slab", serif;
+}
+.ab-btn button{
+color: white;
+background-color: blue;
+}
+.ab-btn button:hover{
+  color: black;
+  border: 2px solid blue;
+}
+.ab-img{
+  padding-top: 30px;
+  padding-right: 50px;
+}
+.ab-img img{
+  height: 400px ;
+  width: 450px;
+}
+
+
+/* footer */
+.footer {
+  background-color: #30304e;
+}
+.footer1 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+.footer1 h1 {
+  font-family: "Roboto Slab", serif;
+}
+.icon i {
+  color: black;
+}
+.details {
+  font-family: "Nunito", sans-serif;
+}
+.footer-link ul {
+  list-style: none;
+}
+.footer-link ul li a {
+  text-decoration: none;
+  color: white;
+  font-family: "Nunito", sans-serif;
+}
+.footer-link ul li a:hover {
+  text-decoration: underline;
+  color: #fba504;
+}
+.right{
+  background-color: black;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.right p{
+  color: white;
+}
+/* OUR SERVICES */
+.service{
+  color: #fba504;
+}
+.service-box{
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  background-color: #f6f4f9;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+.service-box:hover{
+  background-color: blue;
+  color: #f6f4f9;
+}
+
+/* count */
+.counter-section{
+  background-color: #474795;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  margin-bottom: 50px;
+}
+/* NEWSLETTER */
+.NEWSLETTER{
+  background-color: #474795;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom: 30px;
+}
+.newinput{
+  align-items: center;
+}
